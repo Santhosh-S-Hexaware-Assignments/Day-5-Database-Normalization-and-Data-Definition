@@ -1,1 +1,1 @@
-# Day-5---Database-Normalization-and-Data-Definition
+# Day 5 - Database Normalization and Data Definition
